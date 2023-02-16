@@ -206,7 +206,7 @@ nav a:hover {
 }
 
 
-.produtos {
+.linguagem {
    width: 80%;
    margin: 0 auto;
    padding: 50px 0;
@@ -216,7 +216,7 @@ nav a:hover {
 
 
 
-.produtos li {
+.linguagem li {
    display: inline-block;
    text-align: center;
    width: 20%;
@@ -228,24 +228,24 @@ nav a:hover {
    border-radius: 10px;
 }
 
-.produtos li:hover {
+.linguagem li:hover {
    border-color: #D90000;
    
 }
 
 
-.produtos li:hover h2 {
+.linguagem li:hover h2 {
    font-size: 34px;
    
 }
 
 
-.produtos h2 {
+.linguagem h2 {
    font-size: 30px;
    font-weight: bold;
 }
 
-.produto-descricao {
+.linguagem-descricao {
    font-size: 18px;
 }
 
@@ -386,14 +386,14 @@ footer {
 
 
 
-   .produtos {
+   .linguagem {
    width: 100%;
    padding: 50px 0;
 }
 
 
 
-.produtos li {
+.linguagem li {
    display: block;
    text-align: center;
    width: 100%;
