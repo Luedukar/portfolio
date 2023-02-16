@@ -120,7 +120,6 @@ nav a:hover {
 .parte-2:hover {
    filter: blur(0px);
    transition: 300ms;
-   
 }
 
 .titulo {
@@ -128,7 +127,6 @@ nav a:hover {
    padding-top: 300px;
    color: #FFFFFF;
    font-size: 60px;
-
 }
 
 .formacao {
@@ -164,21 +162,18 @@ nav a:hover {
 .parte-4:hover {
    filter: blur(0px);
    transition: 300ms;
-   
 }
 
 .objetivos {
   background: #1f1f1f;
   width: 100%;
   height: 335px;
-
 }
 
 .certificados {
   background: #1f1f1f;
   width: 100%;
   height: 335px;
-
 }
 
 .redes {
@@ -196,7 +191,6 @@ nav a:hover {
    height: 675px;
    position: relative;
    z-index: 1;
-   
 }
 
 .titulo-5 {
@@ -205,16 +199,12 @@ nav a:hover {
    padding-top: 50px;
 }
 
-
 .linguagem {
    width: 80%;
    margin: 0 auto;
    padding: 50px 0;
    padding-left: 85px;
-   
 }
-
-
 
 .linguagem li {
    display: inline-block;
@@ -233,12 +223,9 @@ nav a:hover {
    
 }
 
-
 .linguagem li:hover h2 {
    font-size: 34px;
-   
 }
-
 
 .linguagem h2 {
    font-size: 30px;
@@ -316,82 +303,70 @@ footer {
 
 @media(max-width: 480px) {
 
-   header {
-    width: 100%;
-    height: 100px;
-   }
+header {
+ width: 100%;
+ height: 100px;
+}
 
-   .logoCabecalho {
-      width: 50px;
-      float: left;
-   }
+ .logoCabecalho {
+   width: 50px;
+   float: left;
+ }
 
-   nav {
-      position: relative;
-      top: 10px;
+ nav {
+  position: relative;
+  top: 10px;
+}
 
-   }
+nav li {
+  display: inline-block;
+  padding-top: 5px;
+}
 
-   nav li {
-      display: inline-block;
-      padding-top: 5px;
-   }
-
-   .parte-1 {
+.parte-1 {
       filter: none;
+ }
 
-   }
-
-   .QuemSouEu {
-  
+.QuemSouEu {
   height: 725px;
 }
 
 .parte-2 {
-      filter: none;
+    filter: none;
+}
 
-   }
+.parte-3 {
+  filter: none;
+ }
 
-   .parte-3 {
-      filter: none;
+.parte-4 {
+  filter: none;
+}
 
-   }
+.parte-5 {
+  filter: none;
+}
 
-   .parte-4 {
-      filter: none;
+.formacao {
+  height: 750px;
+}
 
-   }
+.objetivos {
+  height: 500px;
+}
 
-   .parte-5 {
-      filter: none;
+.certificados {
+ height: 425px;
+}
 
-   }
+.linhas {
+  margin-left: 0;
+}
 
-   .formacao {
-      height: 750px;
-   }
-
-   .objetivos {
-      height: 500px;
-   }
-
-   .certificados {
-      height: 425px;
-   }
-
-   .linhas {
-     margin-left: 0;
-   }
-
-
-
-
-   .linguagem {
+.linguagem {
    width: 100%;
    padding: 50px 0;
 }
-
-
 
 .linguagem li {
    display: block;
@@ -409,16 +384,15 @@ footer {
    width: 75px;
 }
 
- footer {
-   position: relative;
-   top: 620px;
-   height: 270px;
- }
+footer {
+ position: relative;
+ top: 620px;
+ height: 270px;
+}
 
  .titulo-footer1 {
-   
-   padding-left: 30px;
-   padding-top: 50px;
+  padding-left: 30px;
+  padding-top: 50px;
 }
 
 .texto-sobre {
